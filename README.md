@@ -26,7 +26,7 @@
 
 # 综合以上三者
 我们可制作出完整的九宫格游戏，其运行方式如下图所示
-## 点击解压后的html文件夹，从页面一开始，右键在菜单栏中找到打开选择浏览器打开（建议用Edge），如果页面没有声音，可在甚至调网站自动播放，才会出现背景音乐，如下图（以edge为例）
+## 点击解压后的html文件夹，从页面一开始，右键在菜单栏中找到打开选择浏览器打开（建议用Edge），如果页面没有声音，可在设置调网站自动播放，才会出现背景音乐，如下图（以edge为例）
 ![%%V0WUNY6Z)%%616R`~PNRL](https://github.com/grealuffy/-/assets/143927752/e057a208-1d0d-4a10-a184-2ca6b05fcf4f)
 ![image](https://github.com/grealuffy/-/assets/143927752/30cc4ccc-2f05-4c37-9664-016a8dae390f)
 ![image](https://github.com/grealuffy/-/assets/143927752/c3d3f2b7-9d11-44d1-ae42-3175be86f13a)
